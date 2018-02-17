@@ -175,7 +175,7 @@ String final_command = "final";
             final_command = my_color+" "+on_off_blink;
             mTextMessage.setText(final_command);
         }
-//--
+//--tesst
         if (the_id == R.id.b_on) {
             on_off_blink = "on";
             final_command = my_color+" "+on_off_blink+" **"+String.valueOf(8877552)+"**";
